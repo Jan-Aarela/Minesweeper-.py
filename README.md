@@ -9,4 +9,6 @@
 
 ![alt_text](https://raw.githubusercontent.com/Jan-Aarela/Minesweeper-.py/refs/heads/main/Screenshots/Start.png)
 
+![alt_text](https://raw.githubusercontent.com/Jan-Aarela/Minesweeper-.py/refs/heads/main/Screenshots/Completed.png)
+
 ![alt_text](https://raw.githubusercontent.com/Jan-Aarela/Minesweeper-.py/refs/heads/main/Screenshots/Scoreboard.png)
