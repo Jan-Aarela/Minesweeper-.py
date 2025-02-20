@@ -1,6 +1,6 @@
 ## Elemtary programming course project 
 
-
+# Theme selector
 ![alt_text](https://raw.githubusercontent.com/Jan-Aarela/Minesweeper-.py/refs/heads/main/Screenshots/Theme%20selector.png) 
 
 ![alt_text](https://raw.githubusercontent.com/Jan-Aarela/Minesweeper-.py/refs/heads/main/Screenshots/Main%20menu.png)
