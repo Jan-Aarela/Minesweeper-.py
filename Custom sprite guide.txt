@@ -1,0 +1,39 @@
+Sup,
+
+Here are some rules you must follow to 
+create your own theme/s:
+
+1. Make a new directoy with desired name and it
+   has to be named different than others.
+
+2. Sprites must be .png files and dimensions
+   must be 40 x 40.
+
+3. Audio files must be .mp3 and
+   with NO capital letters.
+
+4. All files eg. sprites and sounds must named 
+   same way as other themes. 
+   
+5. The color file must be .txt file and the color
+   order must be exactry same.
+   
+Essentionally you are just overwriting existing
+files with your own stuff.
+
+   
+Notes:
+
+Intterract plays when a player clicks on a tile or 
+browses main menu.
+
+Error plays when a player types wrong input in main menu.
+
+Win plays when the game is won.
+
+Lost plays when the game is lost.
+
+Song is the backround music.
+
+
+- Jan.
