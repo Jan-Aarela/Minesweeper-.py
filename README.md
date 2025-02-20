@@ -7,4 +7,6 @@
 
 ![alt_text](https://raw.githubusercontent.com/Jan-Aarela/Minesweeper-.py/refs/heads/main/Screenshots/Game%20settings.png)
 
+![alt_text](https://raw.githubusercontent.com/Jan-Aarela/Minesweeper-.py/refs/heads/main/Screenshots/Start.png)
+
 ![alt_text](https://raw.githubusercontent.com/Jan-Aarela/Minesweeper-.py/refs/heads/main/Screenshots/Scoreboard.png)
