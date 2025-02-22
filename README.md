@@ -1,4 +1,4 @@
-# Elemtary programming course project 
+# Elementary programming course project 
 
 
 ## Theme selector
